@@ -1,0 +1,5 @@
+*.swp
+*.pyc
+test.py
+log.txt
+mycis_visw.db
